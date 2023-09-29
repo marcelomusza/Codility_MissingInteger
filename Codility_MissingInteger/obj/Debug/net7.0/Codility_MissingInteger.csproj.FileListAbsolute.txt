@@ -1,0 +1,14 @@
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\bin\Debug\net7.0\Codility_MissingInteger.exe
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\bin\Debug\net7.0\Codility_MissingInteger.deps.json
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\bin\Debug\net7.0\Codility_MissingInteger.runtimeconfig.json
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\bin\Debug\net7.0\Codility_MissingInteger.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\bin\Debug\net7.0\Codility_MissingInteger.pdb
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\Codility_MissingInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\Codility_MissingInteger.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\Codility_MissingInteger.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\Codility_MissingInteger.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\Codility_MissingInteger.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\refint\Codility_MissingInteger.dll
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\Codility_MissingInteger.pdb
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\Codility_MissingInteger.genruntimeconfig.cache
+C:\Users\Marce\source\repos\Training\Codility\Codility_MissingInteger\Codility_MissingInteger\obj\Debug\net7.0\ref\Codility_MissingInteger.dll
